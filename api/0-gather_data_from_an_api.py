@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-"""
-Python script that, for a given employee ID, returns information about their TODO list progress.
-It fetches user and TODO data from a placeholder API and displays the number of completed tasks.
-"""
+"""a script that returns
+information about a TODO list """
 
 import requests
 import sys
