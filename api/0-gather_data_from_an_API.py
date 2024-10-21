@@ -52,4 +52,5 @@ def get_info(employee_id):
         print(f"  {title}")  # Print each completed task title
 
 # Call the function with the provided employee ID
-get_info(id)
+if __name__ == "__main__":
+   get_info(id)
