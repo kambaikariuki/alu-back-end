@@ -12,6 +12,7 @@ todos_url = 'https://jsonplaceholder.typicode.com/todos/'
 users_url = 'https://jsonplaceholder.typicode.com/users/'
 
 def get_info(id):
+   """ Function to  return employee information """
    completed_todos = []
    todos_list = []
    completed_titles = []
